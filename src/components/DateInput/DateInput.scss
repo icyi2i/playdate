@@ -1,0 +1,54 @@
+div.playdate-input.date-input {
+  border: 1px solid black;
+  background-color: white;
+  border-radius: 4px;
+  padding: 2px;
+  min-width: 160px;
+  width: 200px;
+  min-height: 32px;
+  display: flex;
+
+  input {
+    outline: 0px solid transparent;
+    border: 1px solid transparent;
+    background-color: transparent;
+
+    padding: 2px;
+    font-size: 18px;
+
+    &.day {
+      width: 28px;
+    }
+    &.month {
+      width: 28px;
+      &:placeholder-shown {
+        width: 36px;
+      }
+    }
+    &.year {
+      width: 48px;
+    }
+  }
+  span.input-meta-span {
+    height: 32px;
+    font-size: 18px;
+    display: inline-flex;
+    align-items: center;
+    padding-top: 4px;
+    user-select: none;
+  }
+  .placeholder-icon {
+    width: 32px;
+    height: 32px;
+    margin-left: auto;
+  }
+
+  &.is-valid {
+    border: 2px solid rgb(40, 151, 62);
+    box-shadow: 0 0 4px 2px #a3ddaf;
+  }
+  &.is-invalid {
+    border: 2px solid rgb(224, 0, 0);
+    box-shadow: 0 0 4px 2px rgb(255, 170, 170);
+  }
+}
