@@ -1,6 +1,6 @@
 {
   "name": "playdate",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simple datetime components library!",
   "main": "index.js",
   "repository": {
@@ -10,7 +10,7 @@
   "keywords": [
     "React",
     "Date",
-    "component"
+    "Component"
   ],
   "author": "Sarthak Gambhir",
   "license": "MIT",
