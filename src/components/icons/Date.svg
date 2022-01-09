@@ -1,0 +1,8 @@
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+  <g class="layer">
+    <rect height="240" rx="4" ry="4" stroke="#000" stroke-width="16" width="280" x="60" y="100" fill="none"/>
+    <rect height="40" rx="4" ry="4" stroke="#000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="16" width="40" x="112.694" y="59.306" fill="none"/>
+    <rect height="40" rx="4" ry="4" stroke="#000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="16" width="40" x="244" y="60" fill="none"/>
+    <rect fill="#ff4f4f" height="55.972" rx="4" ry="4" stroke="#000" stroke-linejoin="round" stroke-width="16" width="280" x="60" y="100"/>
+  </g>
+</svg>
