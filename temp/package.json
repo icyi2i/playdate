@@ -1,0 +1,40 @@
+{
+  "name": "playdate",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A simple datetime components library!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icyi2i/playdate.git"
+  },
+  "keywords": [
+    "React",
+    "Date",
+    "Component"
+  ],
+  "author": "Sarthak Gambhir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/icyi2i/playdate/issues"
+  },
+  "homepage": "https://github.com/icyi2i/playdate#readme",
+  "dependencies": {
+    "prop-types": "^15.8.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.47.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
